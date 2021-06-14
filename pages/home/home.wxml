@@ -1,4 +1,4 @@
-<l-loadmore show end-text="- 7七月作品 -" type="{{loadingType}}">
+<l-loadmore show end-text="- 我是有底线的 -" type="{{loadingType}}">
     <view slot="content" class="container">
         <image wx:if="{{themeA.online}}" class="top-theme" src="{{themeA.entrance_img}}" data-tname="t-1"
             bind:tap="onGoToTheme"></image>

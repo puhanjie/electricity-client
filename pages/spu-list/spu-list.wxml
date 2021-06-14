@@ -1,4 +1,4 @@
-<l-loadmore show="{{loading}}" type="{{loadingType}}" loading-text="努力加载中..." end-text="—— 7七月作品 ——">
+<l-loadmore show="{{loading}}" type="{{loadingType}}" loading-text="努力加载中..." end-text="—— 我是有底线的 ——">
     <view slot="content" class="spu-bottom">
         <l-water-flow bind:item="onItemTap" generic:l-water-flow-item="s-spu-preview"></l-water-flow>
     </view>
