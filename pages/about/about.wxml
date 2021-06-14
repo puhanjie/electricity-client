@@ -5,12 +5,12 @@
             <view class="next-inner">
                 <text>作者</text>
                 <view class="block"></view>
-                <text>7七月</text>
+                <text>puhj</text>
             </view>
             <view class="next-inner">
                 <text>设计</text>
                 <view class="block"></view>
-                <text style="color: #666666">瓜瓜</text>
+                <text style="color: #666666">puhj</text>
             </view>
             <view class="next-inner">
                 <text>致谢</text>
@@ -46,8 +46,8 @@
     </view>
 
     <view class="next4">
-        <image bind:tap="save" class="wx" src="/imgs/wx.jpg"></image>
-        <text>关注我的公众号：林间有风</text>
-        <text>点击图片长按保存二维码识别</text>
+        <!-- <image bind:tap="save" class="wx" src="/imgs/wx.jpg"></image> -->
+        <text>关注我微信号：puhjrye</text>
+        <!-- <text>点击图片长按保存二维码识别</text> -->
     </view>
 </view>
