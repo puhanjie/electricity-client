@@ -40,11 +40,11 @@ Page({
         })
     },
 
-    onGotoMyCourse(event) {
-        wx.navigateTo({
-            url: "/pages/about-course/about-course"
-        })
-    },
+    // onGotoMyCourse(event) {
+    //     wx.navigateTo({
+    //         url: "/pages/about-course/about-course"
+    //     })
+    // },
 
     onGotoLinUI() {
         wx.navigateToMiniProgram({
