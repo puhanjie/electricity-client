@@ -1,0 +1,3 @@
+<l-status-show describe="{{text}}" show="{{show}}" l-image-class="img" l-describe-class="describe"
+  image="/components/imgs/empty.png">
+</l-status-show>
